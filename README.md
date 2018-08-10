@@ -5,6 +5,9 @@
 
 `isat` was originally developed by Professor Stephen B. Pope at the Cornell University to efficiently simulate the reacting flow with detailed chemistry. For more information regarding `isat`, one can go to the [webpage](https://tcg.mae.cornell.edu/isat.html)
 
+# ACKNOWLEDGEMENT
+This research was supported by the U.S. Department of Energy under Contract No. DE-EE0007688.
+
 # how to compile
 TBA
 # how to run exes
